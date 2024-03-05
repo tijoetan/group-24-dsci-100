@@ -2,5 +2,3 @@
 
 Group project for data science 100!
 
-
-fiejofje
